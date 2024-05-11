@@ -38,7 +38,7 @@
  <a href="https://twitter.com/KritishDhiman" target="blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kritishdhiman Twitter Handle" />
  </a>
- <a href="https://www.instagram.com/stories/kritishdhiman/" target="blank">
+ <a href="https://www.instagram.com/kritishdhiman/" target="blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="kritishdhiman Instagram" />
  </a>
  <a href="https://www.linkedin.com/in/kritish-dhiman" target="_blank">
