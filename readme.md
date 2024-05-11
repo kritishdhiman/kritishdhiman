@@ -50,7 +50,7 @@
  <img align="right" width="350" src="/Coder.gif" alt="Coding gif" />
   
  ✌️ &emsp; I'm passionate about web development <br/><br/>
- ❤️ &emsp; I'm constantly honing my skills in programming languages, software development methodologies.<br/><br/>
+ ❤️ &emsp; I'm always on the lookout for the next big idea to bring to life.<br/><br/>
  📧 &emsp; I believe in the power of collaboration and knowledge sharing.<br/><br/>
  💬 &emsp; I am committed to shaping a brighter future through technology.<br/><br/>
 </p>
