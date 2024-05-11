@@ -41,7 +41,7 @@
  <a href="https://www.instagram.com/stories/kritishdhiman/" target="blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="kritishdhiman Instagram" />
  </a>
- <a href="https://linkedin.com/in/Kritish529" target="_blank">
+ <a href="https://www.linkedin.com/in/kritish-dhiman" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kritishdhiman LinkedIn"/>
  </a>
 </p>
