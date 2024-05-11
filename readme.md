@@ -47,7 +47,7 @@
  # About me:
  
 <p>
- <img align="right" width="350" src="/assets/Coder.gif" alt="Coding gif" />
+ <img align="right" width="350" src="/Coder.gif" alt="Coding gif" />
   
  ✌️ &emsp; I'm passionate about web development <br/><br/>
  ❤️ &emsp; I'm constantly honing my skills in programming languages, software development methodologies.<br/><br/>
