@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <a href="Portfolio Link Here" target="blank">
+  <a href="https://kritishdhiman.github.io/Portfolio/" target="blank">
     <img src="https://img.shields.io/badge/Portfolio-5E3BEE?style=for-the-badge&logo=serverfault&logoColor=white" alt="Portfolio" />
    </a>
  <a href="https://twitter.com/KritishDhiman" target="blank">
