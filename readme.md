@@ -19,7 +19,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="Link Here">{Visit my Portfolio}</a>
+    <a href="https://kritishdhiman.github.io/Portfolio/">{Visit my Portfolio}</a>
     <br>
     I embrace a growth mindset, constantly seeking out new opportunities to expand my knowledge and refine my skill set. I'm passionate about web development and constantly exploring the latest in tech. Let's innovate together! I thrive in an environment where theory meets practice. In the dynamic realm of technology, staying ahead of the curve is paramount.
     <br>
